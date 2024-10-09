@@ -16,6 +16,10 @@ public class Hooks {
 			m.add_place_payload_with("shetty", "French", "Asia");
 			m.user_calls_with_http_method("AddPlaceAPI", "POST");
 			m.verify_place_id_created_maps_to_using("shetty", "getPlaceAPI");
+			//git demo continue
+			System.out.println("postjira");
+			System.out.println("postjira2");
+			System.out.println("postjira3");
 		}
 	}
 
