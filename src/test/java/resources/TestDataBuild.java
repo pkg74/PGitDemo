@@ -34,6 +34,7 @@ public class TestDataBuild {
 	public String deletePlcePayload(String place_id)
 	{
 		System.out.println("devlop branch Pgitdemo");
+		System.out.println("devlop branch GitX");
 		return "{\r\n    \"place_id\": \""+place_id+"\" \r\n}" ;
 		
 	}
